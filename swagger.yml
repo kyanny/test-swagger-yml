@@ -15,7 +15,7 @@ paths:
       description: Eli's function.
       responses:
         '200':    # status code
-          description: A JSON array of user names
+          description: A json array of user names
           content:
             application/json:
               schema: 
